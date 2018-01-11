@@ -1,9 +1,8 @@
 # Sentiment Analysis on sample Twitter data using Neural Networks
 
-- This project performs Sentiment Analysis of sample Tweets.
+- This project performs Sentiment Analysis of sample Twitter Data set.
 
-- Training data(see Data.zip in this project folder) consists of a column called Sentiment which is a binary value.
-It is 1 if the corresponding tweet is positive and is Zero if its negative.
+- Training data consists of a column called Sentiment which is a binary value.It is 1 if the corresponding tweet is positive and is Zero if its negative.
 
 - To build a Neural Network model,top 5000 tweets are considered and they are tokenized.
 
